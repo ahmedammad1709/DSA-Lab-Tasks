@@ -7,12 +7,12 @@ It includes all lab tasks, organized properly for reference, learning, and recor
 
 📂 Repository Structure
 
-📁 DSA-Lab
-┣ 📂 Lab01 - 1D and 2D Arrays
-┣ 📂 Lab02 - 
-
+📁 DSA-Lab <br/>
+┣ 📂 Lab01 - 1D and 2D Arrays <br/>
+┣ 📂 Lab02 - <br/>
 ┣ 📄 README.md
 
+<br/>
 🛠 Technologies
 
 Language: C#
@@ -20,7 +20,7 @@ Language: C#
 Tools: Visual Studio
 
 Version Control: Git & GitHub
-
+<br/>
 🎯 Key Concepts Covered
 
 Arrays(1D, 2D and MultiDimensioanl) & Strings
