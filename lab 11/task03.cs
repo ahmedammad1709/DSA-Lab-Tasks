@@ -43,6 +43,7 @@ internal class QuickSort
         arr[j] = temp;
     }
 }
+
 static void Main(string[] args)
 {
     int[] arr = { 12, 22, 8, 17, 5, 6 , 45, 11, 20, 55, 01};
